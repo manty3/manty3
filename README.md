@@ -1,4 +1,4 @@
-<img align="right" alt="Mastcoder - Programmer" src="https://user-images.githubusercontent.com/48166328/87433509-02119980-c607-11ea-8285-f1136a57d3d2.gif" style="max-width: 100%; display: inline-block;" pading:20px; data-target="animated-image.originalImage">
+<img align="right" alt="Mastcoder - Programmer" src="https://user-images.githubusercontent.com/48166328/87433509-02119980-c607-11ea-8285-f1136a57d3d2.gif" style="max-width: 100%; display: inline-block;"  data-target="animated-image.originalImage">
 
  # Hey, I'm Manty!👋
 
