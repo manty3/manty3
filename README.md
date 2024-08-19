@@ -11,7 +11,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
 
 📫 **Let's Connect:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]
 
 
 
