@@ -1,4 +1,4 @@
-<img src="https://your-image-url.com/profile-pic.png" alt="Profile Pic" width="150" height="150" style="border-radius:50%;">
+<img src="https://user-images.githubusercontent.com/48166328/87433509-02119980-c607-11ea-8285-f1136a57d3d2.gif" width="150" height="150" style="border-radius:50%;">
 
 
 # Hey, I'm Manty! 👋
