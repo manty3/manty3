@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning  ..
 
-- 📫 How to reach me: ...
-   
-- 😄 Pronouns: ...
+📫 How to reach me: Email: akshaymadathil3@gmail.com
 
-- 💬 Ask me about ...
 
--  ⚡ Fun fact: ...
+💬 Ask me about: Node.js, Express, MongoDB, Web Development
+
+⚡ Fun fact: I prefer dark mode not just in coding but in life!
+
 
 🛠️ **Technologies I work with:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
@@ -26,8 +26,7 @@
 
 📫 **Let's Connect:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourprofile)
-### Languages and Tools:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+
 
 
 
