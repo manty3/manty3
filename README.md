@@ -5,7 +5,7 @@
 
 💻 I’m proficient in **Node.js**, **Express**, **MongoDB**, and **JavaScript**.
 
-<img src="![image](https://github.com/user-attachments/assets/8cbc5d03-057e-4bf6-86b5-177d7dabd60d)
+<img src="https://github.com/user-attachments/assets/8cbc5d03-057e-4bf6-86b5-177d7dabd60d
 " alt="Akshay" width="200" height="200" style="border-radius:50%;">
 
 🛠️ **Technologies I work with:**
