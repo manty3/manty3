@@ -7,12 +7,9 @@
 
 💻 I’m proficient in **Node.js**, **Express**, **MongoDB**, and **JavaScript**.
 
-- 👯 I love collaborating on tech projects!
+👯 I love collaborating on tech projects!
 
-- 🌱 I’m currently learning  ..
-
-📫 How to reach me:akshaymadathil3@gmail.com
-
+🌱 I’m currently learning Next.js and TypeScript..
 
 💬 Ask me about: Node.js, Express, MongoDB, Web Development
 
@@ -25,7 +22,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
 
 📫 **Let's Connect:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)] akshaymadathil3@gmail.com
 
 
 
