@@ -1,5 +1,9 @@
 # Hey, I'm Manty! 👋
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![Node.js](https://img.shields.io/badge/-Node.js-green)
+
+
 <!--
 **manty3/manty3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
