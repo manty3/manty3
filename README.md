@@ -7,6 +7,7 @@
 
 💻 I’m proficient in **Node.js**, **Express**, **MongoDB**, and **JavaScript**.
 
+![Visitor Count](https://komarev.com/ghpvc/?username=akshaymadathil3&label=Profile%20visitors%20today&color=0e75b6&style=flat)
 
 🛠️ **Technologies I work with:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
