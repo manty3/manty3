@@ -7,7 +7,7 @@
 
 💻 I’m proficient in **Node.js**, **Express**, **MongoDB**, and **JavaScript**.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=akshaymadathil3&label=Profile%20visitors%20today&color=0e75b6&style=flat)
+
 
 🛠️ **Technologies I work with:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
@@ -23,7 +23,7 @@
 
 
 
-<!--
+
 **manty3/manty3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
