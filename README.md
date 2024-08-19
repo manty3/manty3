@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/48166328/87433509-02119980-c607-11ea-8285-f1136a57d3d2.gif" width="100%" height="150" style="border-radius:50%;">
+<img src="https://user-images.githubusercontent.com/48166328/87433509-02119980-c607-11ea-8285-f1136a57d3d2.gif" width="50%" height="50%" margin-right:'auto'; style="border-radius:50%;">
 
 
 # Hey, I'm Manty! 👋
