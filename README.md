@@ -24,7 +24,9 @@
 📫 **Let's Connect:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourprofile)
 ### 🌐 My Website
- Check out my portfolio and blog at[ portfolio](https://simple-portfolios.onrender.com).
+
+[![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-Click%20Here-blue?style=for-the-badge)](https://simple-portfolios.onrender.com)
+
 
 
 
