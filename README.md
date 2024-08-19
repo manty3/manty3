@@ -21,10 +21,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
 
-📫 **Let's Connect:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourprofile)
 ### 🌐 My Website
-
 [![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-Click%20Here-blue?style=for-the-badge)](https://simple-portfolios.onrender.com)
 
 
